@@ -51,3 +51,7 @@ The production build is written to `dist/`.
 This repo includes a GitHub Actions workflow that builds the Slidev deck and deploys it to GitHub Pages on pushes to `main`.
 
 Live deck: <https://joshmiller83.github.io/owe-slides/>
+
+## Script
+
+Full speaker script: [`SPEAKER_NOTES.md`](/Users/jomiller/Developer/github/joshmiller83/owe-slides/SPEAKER_NOTES.md)
