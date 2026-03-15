@@ -55,3 +55,8 @@ Live deck: <https://joshmiller83.github.io/owe-slides/>
 ## Script
 
 Full speaker script: [`SPEAKER_NOTES.md`](/Users/jomiller/Developer/github/joshmiller83/owe-slides/SPEAKER_NOTES.md)
+
+Sponsor slide QR destinations:
+
+- <https://github.com/sponsors/e0ipso>
+- <https://omedia.dev/services>

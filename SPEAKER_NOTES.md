@@ -20,25 +20,29 @@ And why this community should be paying attention right now.**
 
 Everything I'm about to show you today works on **a normal Drupal site** using the **Drupal MCP module**. That means any Drupal website can host MCP endpoints today.
 
+Alright.
+
+Let's start with something very simple.
+
+---
+
+# Sponsor Slide — Support MCP Development
+
 Before I jump in, I also want to acknowledge the people doing the heavy lifting here.
 
 **Mateu Aguiló Bosch**, known as e0ipso on GitHub, has been doing incredible foundational work on MCP in the Drupal ecosystem.
 
-If this demo resonates with you, please consider sponsoring him:
+If this demo resonates with you, please consider sponsoring him using the QR code on screen:
 
 <https://github.com/sponsors/e0ipso>
 
 Also, the team at **Omedia** has been working very hard to make this low-level technology practical for real organizations.
 
-If you're interested in building MCP integrations for your organization:
+If you're interested in building MCP integrations for your organization, use the Omedia QR code on screen or visit:
 
 <https://omedia.dev/services>
 
 This work is difficult infrastructure work — the kind of thing the open web needs more people supporting.
-
-Alright.
-
-Let's start with something very simple.
 
 ---
 
@@ -247,7 +251,7 @@ You can participate.
 
 ---
 
-# Call to Action
+# Sponsor Slide — Call to Action
 
 So I want to end with a very simple request.
 
@@ -267,11 +271,11 @@ But it needs:
 
 Please consider supporting the people doing this work.
 
-Sponsor **Mateu Aguiló Bosch**:
+Sponsor **Mateu Aguiló Bosch** using the QR code on screen:
 
 <https://github.com/sponsors/e0ipso>
 
-And talk with **Omedia** if you're interested in building MCP integrations for your organization:
+And talk with **Omedia** if you're interested in building MCP integrations for your organization, also on screen as a QR code:
 
 <https://omedia.dev/services>
 
