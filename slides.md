@@ -10,8 +10,8 @@ defaults:
 
 <div class="absolute inset-0">
   <img
-    src="./generated_images/slide1-drupal-site.png"
-    alt="Illustration of a Drupal website as a human interface, with three prominent tiles for Events, Speakers, and Registration."
+    src="./generated_images/title.png"
+    alt="Title slide for Josh Miller's DrupalCon Chicago 2026 spotlight talk, The Open Web Needs MCP."
     class="h-full w-full object-cover"
   />
 </div>
@@ -46,7 +46,19 @@ https://omedia.dev/services
 This work is difficult infrastructure work — the kind of thing the open web needs more people supporting.
 
 Alright. Let's start with something very simple.
+-->
 
+---
+
+<div class="absolute inset-0">
+  <img
+    src="./generated_images/slide1-drupal-site.png"
+    alt="Illustration of a Drupal website as a human interface, with three prominent tiles for Events, Speakers, and Registration."
+    class="h-full w-full object-cover"
+  />
+</div>
+
+<!--
 What you're looking at here is a completely normal Drupal website.
 
 This one is called the Open Web Exchange.
