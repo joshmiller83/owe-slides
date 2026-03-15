@@ -1,4 +1,4 @@
-# owe-slides
+# Open Web Exchange: MCP Demo at the Pantheon Booth
 
 Josh Miller's spotlight presentation on how the Open Web would benefit from more MCP-related work.
 
