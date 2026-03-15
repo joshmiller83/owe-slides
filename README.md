@@ -49,3 +49,5 @@ The production build is written to `dist/`.
 ## Deployment
 
 This repo includes a GitHub Actions workflow that builds the Slidev deck and deploys it to GitHub Pages on pushes to `main`.
+
+Live deck: <https://joshmiller83.github.io/owe-slides/>
